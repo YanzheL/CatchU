@@ -141,4 +141,5 @@ Temporary Items
 out
 gen
 /test_files.rar
-models/*
+models/
+multiproc_model/test/
