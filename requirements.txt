@@ -1,0 +1,6 @@
+scipy
+sklearn
+tensorflow
+mxnet
+PyQt5
+Pillow

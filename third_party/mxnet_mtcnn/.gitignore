@@ -1,0 +1,4 @@
+*.pyc
+caffe_converter
+.idea
+__pycache__
